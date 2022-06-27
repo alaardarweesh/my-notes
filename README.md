@@ -8,4 +8,4 @@ In order to be a good software developer, I *think* he/she should be able to be 
 
 ![](https://ggie.berkeley.edu/wp-content/uploads/2019/09/Growth_Mindset_Students_1410x820-705x410.jpg)
 
-[](https://www.markdownguide.org/cheat-sheet/)
+
