@@ -1,10 +1,12 @@
 # my-notes
-## Used for daily notes
+
 **Good Developer Mindset**
+         
 In order to be a good software developer, I *think* he/she should be able to be consistent with simplicity and away from complexity. This may be accomplished by thinking deeply before doing or performing taks. Everyday, the developer should learn something new and will never stop!
 Generally, the software developer should:
+
 -Practice problem-solving skills as much as he/she could.
--Conceive the purpose of software and goals of software design.-----
+-Conceive the purpose of software and goals of software design.
 -Understand the nature of tools and system he/she deals with.
 
 
